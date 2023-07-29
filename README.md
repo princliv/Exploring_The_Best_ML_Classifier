@@ -2,6 +2,16 @@
 
 ![Classifier Showdown](https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/6001456604774400/image/download/5713346172026880)
 
+## Contents
+1. [Overview](#Overview)
+2. [Dataset](#Dataset)
+3. [Requirements](#Requirements)
+4. [Instructions](#Instructions)
+5. [File Description](#file-description)
+6. [Results](#Results)
+7. [Conclusion](#Conclusion)
+8. [Acknowledgments](#Acknowledgments)
+
 ## Overview
 
 This project explores the performance of various machine learning classifiers on a dataset. The main objective is to compare different classifiers and identify the best model for the given classification task. The classifiers used in this project include Decision Tree, Random Forest, Logistic Regression, K-Nearest Neighbors (KNN), and Support Vector Machine (SVM). Also Shows a graph to show a clear comparision between different Classifiers.
